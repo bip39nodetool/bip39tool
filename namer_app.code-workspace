@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../flutter/namer_app"
+		},
+		{
+			"path": "../secret-sharing-tool"
+		},
+		{
+			"path": "../shamir"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
